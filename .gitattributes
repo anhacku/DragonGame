@@ -1,5 +1,5 @@
 app/* linguist-documentation=false
 *.css linguist-detectable=false
-*.js linguist-detectable=false
+*.js linguist-detectable=true
 *.java linguist-detectable=true
 app/* linguist-vendored
